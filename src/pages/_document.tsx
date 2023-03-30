@@ -5,19 +5,19 @@ export default function Document() {
 	return (
 		<Html className="">
 			<Head>
-				<title>Ana Howard - Colourful Haired Human</title>
+				<title>Fernando Julian - Tech Enthusiast</title>
 				<link rel="icon" type="image/png" href="https://anahoward.me/images/eyesemoji.png" />
 				<meta name="title" content="Ana Howard - Colourful Haired Human" />
 				{/* facebook  / open graph */}
 				<meta property="og:type" content="website" />
-				<meta property="og:url" content="https://www.anahoward.me"></meta>
+				<meta property="og:url" content="http://fjulian.my.id"></meta>
 				<meta property="og:title" content="Ana Howard - Colourful Haired Human" />
 				<meta property="og:description" content="" />
 				<meta property="og:image" content="https://anahoward.me/images/preview.png"></meta>
 
 				{/* twitter */}
 				<meta property="twitter:card" content="summary_large_image" />
-				<meta property="twitter:url" content="https://www.anahoward.me" />
+				<meta property="twitter:url" content="https://twitter.com/nandocoeg" />
 				<meta property="twitter:title" content="Ana Howard - Colourful Haired Human" />
 				<meta property="twitter:description" content="" />
 				<meta property="twitter:image" content="https://anahoward.me/images/preview.png"></meta>
